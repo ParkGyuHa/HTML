@@ -1,1 +1,1 @@
-# HTML, CSS연습
+# HTML연습
